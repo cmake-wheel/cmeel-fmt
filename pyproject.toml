@@ -7,8 +7,8 @@ dependencies = []
 description = "cmeel distribution for fmt, a modern formatting library"
 license = "MIT"
 name = "cmeel-fmt"
-requires-python = ">= 3.9"
-version = "12.1.0"
+requires-python = ">= 3.10"
+version = "12.2.0"
 
 [project.urls]
 homepage = "https://github.com/cmake-wheel/cmeel-fmt"
